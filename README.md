@@ -11,7 +11,8 @@ This repository contains implementations of Q-Learning and SARSA algorithms appl
 
 ## Usage
 
-1. Clone the repository: git clone https://github.com/your_username/reinforcement-learning-taxi.git
+1. Clone the repository:
+git clone https://github.com/your_username/reinforcement-learning-taxi.git
 
 
 ## Q-Learning
